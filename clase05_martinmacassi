@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+
+	<head>
+	<meta charset="utf-8">
+	<title> El comercio </title>
+  </head>
+
+<body>
+	<header>
+		
+		 <a href="index.html"> <img alt="El Comercio" src="logo.png"> 
+		 </a>
+		
+		<nav>
+			<ul>
+				<li>Lo último </li>
+				<li>Opinión </li>
+				<li>Política </li>
+				<li>Perú </li>
+				<li>Lima </li>
+				<li>Mundo </li>
+				<li>Economía </li>
+				<li>Luces </li>
+				<li> <a href="clubelcomercio.html"> <img alt="Club El comercio" src="club.png"> </a> </li>
+			</ul>
+		</nav>
+	</header>
+
+	<article>
+				<div class="titular">
+   <p> Política </p>
+   <h1> "Vivimos una prisión preventiva sin haber cometido ningún delito" </h1>
+   <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   
+   </p>
+
+					</div>
+
+		<div2 class="texto">
+				<img class="Foto noticia principal" src="noticia.jpg">
+     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut </p>
+
+     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut  </p>
+<aside>
+		<h2> Las más leidas</h2>
+		<nav>
+			<ul>
+				<li>Instagram la vida glamorosa de JN <a href="instagram.com"> <img alt="Jessica Newton en IG" src="JESSI.png"> </a> </li>
+				<li>Instagram la vida glamorosa de JN <a href="instagram.com"> <img alt="Jessica Newton en IG" src="JESSI.png"> </a> </li>
+				<li>Instagram la vida glamorosa de JN <a href="instagram.com"> <img alt="Jessica Newton en IG" src="JESSI.png"> </a> </li>
+		</div2>
+
+		</ul>
+		</nav>
+		</aside>
+
+	</article>
+</body>
+
+</html>
+
