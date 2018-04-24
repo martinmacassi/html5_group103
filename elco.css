@@ -1,0 +1,36 @@
+body, h1, h2, ul, p{
+	margin:0;
+}
+
+body {
+		font-size: 100%;
+		font-family: "Times New Roman", serif;
+}
+
+h1{
+		font-family: Georgia, serif;
+		font-size: 2em;
+}
+
+
+header {
+		background-color: #E4BB0C;
+		margin-bottom: 100px;
+		padding: 2em;
+}
+
+article {
+		background-color: green;
+	}
+
+article p{
+		background-color: green;
+		margin-bottom: 1em;
+}
+
+aside {
+		background-color: blue;
+}
+
+
+
