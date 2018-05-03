@@ -1,0 +1,51 @@
+html, body {
+
+margin: 0;
+height: 100%;
+font-size: 12px;
+}
+
+
+
+.box {
+	color: white;
+	width: 6.25rem;
+	height: 6.25rem;
+	margin-bottom: 1rem;
+	background-color: red;
+	position: relative
+}
+
+
+
+.box1 {
+	top: 1rem;
+	left: 2rem ;
+	background-color: yellow
+
+}
+
+.box2 {
+	background-color:green;
+	top: 2rem;
+	left: 2rem ;
+
+}
+
+		.box2 .hijo1{  background-color: lightred;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+
+}
+
+
+.box3 {
+	background-color:blue;
+
+}
+
+
+
+
+
