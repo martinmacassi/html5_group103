@@ -1,0 +1,21 @@
+@media screen and (min-width: 650px) and (max-width: 1000px){
+
+.box {
+
+} 
+
+.box1 {
+
+}
+
+
+}
+
+/* smarthphone = 320pc
+tablet = 768px
+Notebook = 1024
+	-webkit-animation-direction: normal;
+	-o-animation-direction: normal;
+	animation-direction: normal*/
+
+	@media screen and (max-width: 650px) { }
